@@ -1,0 +1,26 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    font-size: 60px;
+    text-align: center;
+    background-color: rgb(0, 255, 255, 0.3);}
+
+ul, ol{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    font-size: 28px;
+    text-align: left;
+    margin-left: 30px;}
+
+p, a, li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 5px;
+    margin-left: 30px;}
+
+img{display:block;
+    margin: auto;
+    width: 50% ;}
